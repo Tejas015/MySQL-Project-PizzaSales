@@ -1,2 +1,2 @@
-# MySQL-Project-PizzaSales
+# MySql-project-pizza-sales-analysis
 
